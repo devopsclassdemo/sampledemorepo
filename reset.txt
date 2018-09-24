@@ -1,2 +1,16 @@
 this is my reset file
 this contains reset information
+this is thrid line
+this is fourth line
+this is my reset file
+this is my reset file
+this is my reset file
+this contains reset information
+this is thrid line
+this is fourth line
+this contains reset information
+this is thrid line
+this is fourth line
+this contains reset information
+this is thrid line
+this is fourth line
