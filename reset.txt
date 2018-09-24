@@ -1,5 +1,3 @@
-this is my reset file
-this contains reset information
 this is thrid line
 tfkdjfakdsjf klfdkfj
 kfjdskfjasd;fkldjfksdfjdkfjdsk;fdasj;f
@@ -7,9 +5,12 @@ kljfjkdsfja;sdf
 sdfjdsklfjdas 
 his is fourth line
 this is my reset file
+kljdjfkaldsfj
+dkfjd;flka
+sdflkdfjasd;
+sdfdfkjad;
 this is my reset file
 123 32123 243432 44542 424
-3241 343124 51 341 3431 
 341 441 34134 341234
 fdaf
 sdfds
